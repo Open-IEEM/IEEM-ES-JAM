@@ -1,4 +1,4 @@
-# ARGENTINA
+# JAMAICA
 
 **Inter-American Development Bank**
 
@@ -8,9 +8,9 @@
 
 | **Description**                      | **Links** |
 | :--- | :---: |
-| Ecosystem Service Modeling Data \(Zipped folder\)      | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/archive/main.zip) |
-| Country Data Sheet                   | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/ARG%20DATA%20SHEET.pdf) |
-| This README                          | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/raw/main/README.pdf) |
+| Ecosystem Service Modeling Data \(Zipped folder\)      | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-JAM/archive/main.zip) |
+| Country Data Sheet                   | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-JAM/raw/main/JAM%20DATA%20SHEET.pdf) |
+| This README                          | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-JAM/raw/main/README.pdf) |
 
 ## 1. Overview
 
